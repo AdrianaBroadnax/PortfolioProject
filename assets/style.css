@@ -1,8 +1,36 @@
-* {
-    font-family: "Lucinda Sansa Unicode", "Lucida Grande"
-
+* {box-sizing: border-box;
 }
+    
+header {
+    padding: 20px;
+    text-align: center;
+    background: lemonchiffon;
+    color: #ac07d1;
+    font-size: 25px;
+}
+
 body {
-    background-color: #f8ddfe 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8ddfe;
+    margin: 0;
+}
+nav {
+    display: flex;
+    background-color:blueviolet;
+    
 }
 
+nav a {
+    color: black;
+    padding: 14px 20px;
+    text-align: center;
+
+}
+
+.selfie img {
+    width: 400px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    flex: 0 0 400px;
+}
