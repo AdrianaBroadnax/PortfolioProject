@@ -15,4 +15,6 @@ Add a recent photo of me
 Add contact info at the bottom with my email, github, and portfolio
 
 # style.css
-For the header I wanted it centered with a yellow background
+For the header I wanted it centered with a yellow background, the hex code used for the font color was found in ProCreate.
+For the body I wanted to add an image but was having problems, so I kept it a light bubblegum pink
+Had to make sure everything has a display: flex; in order for it to wrap depending on the screen size.
