@@ -16,6 +16,9 @@ body {
     /* how to add background img */
     /* how to add fonts */
 }
+.h1 {
+    color: blueviolet
+}
 nav {
     display: flex;
     background-color:blueviolet;
