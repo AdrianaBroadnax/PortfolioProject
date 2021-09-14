@@ -32,6 +32,10 @@ nav a {
 
 }
 
+nav a:hover {
+    color: #fff
+}
+
 .selfie img {
     width: 400px;
     border-style: solid;
