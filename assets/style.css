@@ -43,3 +43,14 @@ nav a:hover {
     padding: 10px;
     flex: 0 0 400px;
 }
+.AdriPink img {
+    width: 200px
+    flex: 0 0 200px
+    
+}
+p {
+    font-size: 18px
+}
+Section {
+    font-size: 25px
+}
