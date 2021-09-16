@@ -18,6 +18,7 @@ body {
 }
 .h1 {
     color: blueviolet
+   
 }
 nav {
     display: flex;
@@ -43,14 +44,17 @@ nav a:hover {
     padding: 10px;
     flex: 0 0 400px;
 }
-.AdriPink img {
+.Hobbies img {
     width: 200px
-    flex: 0 0 200px
     
+
 }
 p {
     font-size: 18px
 }
 Section {
     font-size: 25px
+}
+main a {
+    font-size: 18px
 }
