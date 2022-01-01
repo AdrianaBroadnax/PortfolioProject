@@ -22,9 +22,7 @@ body {
 }
 nav {
     display: flex;
-    background-color:blueviolet;
-    
-}
+    }
 
 nav a {
     color: black;
@@ -38,11 +36,11 @@ nav a:hover {
 }
 
 .selfie img {
-    width: 400px;
+    width: 200px;
     border-style: solid;
     border-width: 2px;
     padding: 10px;
-    flex: 0 0 400px;
+    /* flex: 0 0 400px; */
 }
 .Hobbies img {
     width: 200px
@@ -50,7 +48,7 @@ nav a:hover {
 
 }
 p {
-    font-size: 18px
+    font-size: 16px
 }
 Section {
     font-size: 25px
