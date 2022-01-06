@@ -10,8 +10,10 @@ I started by creating the repository with the name PortfolioProject, then I adde
 I changed the name from "Adriana's World to "Coding Wonderland" since to me coding is a magical experience. You don't know if your code is broken or good to go until you test the magic! 
 I added the nav bar with working functions;
 the GitHub, LinkedIn, and Resume links have been added and working.
+Then I wanted to update it and put a contact and an about me button instead
+I added the second project Fast Track and 3 more homework assignments which consist of the note taker, employee tracker, and the readMe generator.
 I also added a menu toggle, so if the screen was adjusted, the information will adjust to the screen size.
-Under Projects, I did add project 1 and two homework assignments that consist of the Password Generator and the CodeQuiz
+Under Projects, I already had the one project plus the 
 My contact info has been added to the bottom of the page.
 
 
