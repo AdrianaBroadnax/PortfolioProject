@@ -4,14 +4,14 @@
 header {
     padding: 20px;
     text-align: center;
-    background: lemonchiffon;
-    color: #ac07d1;
+    background: rgb(240, 6, 6);
+    color: #ffffff;
     font-size: 25px;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffddf4;
+    background-color: rgb(240, 6, 6);
     margin: 0;
     /* how to add background img */
     /* how to add fonts */
@@ -22,10 +22,11 @@ body {
 }
 nav {
     display: flex;
+    background-color: green;
     }
 
 nav a {
-    color: black;
+    color: green;
     padding: 14px 20px;
     text-align: center;
 
