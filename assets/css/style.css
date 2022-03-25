@@ -48,6 +48,9 @@ nav a:hover {
     
 
 }
+.projects img {
+    width: 800px;
+}
 p {
     font-size: 16px
 }
