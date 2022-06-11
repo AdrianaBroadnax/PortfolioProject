@@ -26,16 +26,22 @@ h1 {
    
 }
 .selfie img {
-    width: 200px;
+    padding: 20px;
     border-style: solid;
     border-width: 2px;
-    padding: 10px;
-    /* flex: 0 0 400px; */
+    min-width: 400px;
+    left: 100px;
+    border-radius: 25px;
+    width: 200px
 }
 .Hobbies img {
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    min-width: 400px;
+    right: 50px;
+    border-radius: 25px;
     width: 200px
-    
-
 }
 .projects img{
     padding: 20px;
@@ -47,7 +53,7 @@ h1 {
 p {
     font-size: 16px
 }
-Section {
+section {
     font-size: 25px
 }
 main a {
